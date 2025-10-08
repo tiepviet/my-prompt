@@ -386,3 +386,7 @@ You are a code quality expert. Refactor the code in the `frontend` folder built 
 - Organize code according to domain-driven component structure (e.g., `components/`, `hooks/`, `utils/`, `types/`)
 
 Make the refactored code production-ready and ensure it adheres to modern frontend development standards.
+
+### Sample
+
+Read the implementation proposal from docs/todo-2.md. i want that you make your own analysis and assumptions since you have higher knowledge and usually implement things better. take the proposal as a starting point. if you're 9/10 sure that you can implement the fix then do it clarifying questions. if not come back with
